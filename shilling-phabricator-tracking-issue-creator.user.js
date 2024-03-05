@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shilling Phabricator Tracking Issue Creator
 // @namespace    https://github.com/sirbrillig/shilling-phabricator-tracking-issue-creator
-// @version      1.0.0
+// @version      1.0.1
 // @description  Adds a Shilling Github Tracking issue for a Phabricator diff
 // @author       Payton Swick <payton@foolord.com>
 // @match        https://code.a8c.com/D*
