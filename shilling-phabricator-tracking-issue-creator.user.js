@@ -15,7 +15,7 @@
 		'.phui-property-list-text-content',
 	);
 	if (description) {
-		const hasTrackedBy = /Tracked (by|here):? https:/i.test(
+		const hasTrackedBy = /Tracked (in|by|here|with):? https:/i.test(
 			document.querySelector('.phui-property-list-text-content')
 				.textContent,
 		);
