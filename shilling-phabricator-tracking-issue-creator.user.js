@@ -42,5 +42,5 @@
 	button.addEventListener('click', () => {
 		window.open(githubUrl, '_blank');
 	});
-	document.querySelector('.phui-header-shell').appendChild(button);
+	document.querySelector('.phui-header-shell .phui-header-subheader').appendChild(button);
 })();
